@@ -1115,11 +1115,11 @@ body{
     }
     #section .story .story-1>h2{
         margin: 0 auto;
-        margin-left: 90px;
+        margin-left: 70px;
     }
     #section .story .story-1>p{
-        padding-left: 10%;
-        
+/*         padding-left: 10%; */
+        margin: 0 auto;
     }
     #section .story .milk_gp h4{
         padding-left: 20px;
@@ -1165,7 +1165,7 @@ body{
     }
     #section .love>h2{
         font-size: 20pt;
-        padding-top: 50px;
+        padding-top: 20px;
         padding-left: 10px;
     }
     #section .love>p{
