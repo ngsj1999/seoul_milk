@@ -1155,6 +1155,7 @@ body{
     #section .con2 .back_photo{
         height: 90vw;
         background-position: 80%;
+        background-attachment: scroll;
     }
     #section .con2 .con2-1{
         width: 90%;
@@ -1184,7 +1185,7 @@ body{
         padding-left: 13%;
     }
     #section .con2 .con2-1 .bt2 li:nth-child(1){
-        width: 60%;
+        width: 70%;
         /* border:1px solid red; */
     }
     #section .con2 .con2-1 .bt2 li a img{
