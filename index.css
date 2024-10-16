@@ -1007,6 +1007,9 @@ body{
     #header .banner h2{
         display: none;
     }
+    #header .banner p{
+        display: none;
+    }
     #header .bt{
         display: none;
     }
