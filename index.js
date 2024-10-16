@@ -1,4 +1,9 @@
 $(document).ready(function(){
+
+    $("a").click(function(e){
+        e.preventDefault();
+    });
+
     $(".hamburger .menu").click(function(){
         $(".mobile_menu").stop().slideDown();
     });

@@ -1146,6 +1146,9 @@ body{
     #section .con1 .food_gp>ul>li>h4{
         margin-top: 4%;
     }
+    #section .con1 .food_gp>ul>li:nth-child(2)>h4{
+        width: 100%;
+    }
     #section .con1 .food_gp>ul>li>p{
         display: none;
     }
