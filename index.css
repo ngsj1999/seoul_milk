@@ -263,7 +263,7 @@ body{
 #section .con1 .food_gp>ul>li>h4{
     margin-bottom: 2%;
 }
-#section .con1 .food_gp>ul .mony{
+#section .con1 .food_gp>ul>li>p.mony{
     color: #066337;
     margin-top: 5%;
 }
@@ -1121,8 +1121,6 @@ body{
         background-size: 90%;
     }
     #section .con1 h2{
-        /* padding-top: 80px; */
-        /* margin-top: 45%; */
         width: 100%;
         margin-top: 68%;
         text-align: center;
@@ -1133,7 +1131,7 @@ body{
     }
     #section .con1 .food_gp>ul>li{
         width: 40%;
-        height: 50vw;
+        height: 55vw;
         line-height: 4vw;
         /* margin-top: 0px; */
     }
