@@ -48,24 +48,7 @@ body{
 #header{
     width: 100%; height:52.6vw;
     position: relative;
-<<<<<<< HEAD
     /* border: 1px solid red; */
-=======
-}
-#header .hamburger{
-    width: 100%;
-    display: none;
-}
-#header .hamburger .menu{
-    background-image: url(images/images_68.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-/*     width: 42px; height: 38px; */
-    width: 34px; height: 20px;
-    position: absolute;
-    z-index:100;
-    right: 20px; top: 25px;
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
 }
 #header .gnb_align{
     width: 80%; height: 11vw;
@@ -1009,72 +992,11 @@ body{
         height: 4.5vw;
     }
     #header #wrap .logo{
-<<<<<<< HEAD
         width: 25%;
-=======
-        width: 190px;
-        height: 53px;
-        transform: translateX(-52%);
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
     }
     #header .gnb{
         display: none;
     } 
-<<<<<<< HEAD
-=======
-    /* #header .gnb>li{
-        background-color: #635a06;
-        height: 73px;
-        display: none;
-    } */
-    #header .hamburger{
-        display: block;
-    }
-    #header .hamburger .menu{
-        cursor: pointer;
-    }
-    #header .hamburger .mobile_menu{
-        width: 100%; height: 53%;
-        position: fixed;
-        right: 0; top: 0px;
-        z-index: 100000;
-        background-color: #ffffff;
-        display: none;
-    }
-    #header .hamburger .mobile_menu li{
-        width: 100%;
-        text-align: center;
-        font-size: 13pt;
-        line-height: 50px;
-        border-bottom: 1px solid #066337;
-    }
-    #header .hamburger .mobile_menu li:first-child a{
-        background-image: url(images/xmark.svg);
-        width: 25px; height: 25px;
-        background-repeat: no-repeat;
-        margin-left: 10px;
-    }
-    #header .hamburger .mobile_menu li:first-child{
-        border-bottom: none;
-        background-color: #16a05f;
-        height: 10%;
-        padding-top: 10px;
-    }
-    #header .hamburger .mobile_menu li:last-child{
-        border-bottom: none;
-    }
-    /* #header .hamburger .mobile_menu li:nth-child(2) a{
-        background-image: url(images/images_03.png);
-        background-size: cover;
-        background-position: center;
-        width: 100px; height: 30px;
-        position: absolute;
-        left: 40%; top: 0px;
-    } */
-    #header .hamburger .mobile_menu li>a{
-        color: #066337;
-    }
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
     #header .banner{
         width: 100%; height:80vw;
         position: relative;
@@ -1083,32 +1005,6 @@ body{
         width: 100%; height:80vw;
     }
     #header .banner h2{
-<<<<<<< HEAD
-=======
-        font-size: 27pt;
-        margin-left: 10px;
-    }
-    #header .banner p{
-        margin-left: 10px;
-        width:280px;
-        line-height: 18pt;
-        /* background-color: rgba(255, 255, 255, 0.75); */
-        font-size: 10.5pt;
-        margin-bottom: 15px;
-        margin-top: 20px;
-    }
-    #header .bt{
-        margin-left: 10px;
-        width: 130px; height: 45px;
-    }
-    #header .bt li{
-        padding-left: 13px;
-        padding-top: 15px;
-        font-size: 11pt;
-    }
-    #header .bt li img{display: none;}
-    #header .banner .circle{
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
         display: none;
     }
     #header .bt{
@@ -1249,7 +1145,6 @@ body{
     #section .con1 .food_gp>ul>li>h4{
         margin-top: 4%;
     }
-<<<<<<< HEAD
     #section .con1 .food_gp>ul>li>p{
         display: none;
     }
@@ -1262,12 +1157,6 @@ body{
     #section .con2 .back_photo{
         height: 90vw;
         background-position: 80%;
-=======
-    #section .con2 h2{
-        margin-left: 20px;
-        padding-top: 50px;
-        font-size: 20pt;
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
     }
     #section .con2 .con2-1{
         width: 90%;
@@ -1288,7 +1177,6 @@ body{
     }
     
     #section .con2 .con2-1 .bt2{
-<<<<<<< HEAD
         width: 50%;
         height: 8vw;
     }
@@ -1305,17 +1193,6 @@ body{
         width: 50%;
     }
     #section .con2 .zayo1{
-=======
-        width: 160px; height: 45px;
-    }
-    #section .con2 .con2-1 .bt2 li{
-        padding-top: 15px;
-        padding-left: 15px;
-        font-size: 11pt;
-    }
-    #section .con2 .con2-1 .bt2 li img{display: none;}
-    #section .zayo1{
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
         display: none;
     }
     #section .zayo2{
@@ -1332,21 +1209,6 @@ body{
         display: none;
     }
     
-<<<<<<< HEAD
-=======
-    #section .bt3{
-        margin-left: 2.5%;
-        margin-top: 330px;
-        width: 250px; height: 58px;
-        border: none;
-    }
-    #section .bt3 li{
-        padding-top: 20px;
-        padding-left: 15px;
-        font-size: 11pt;
-        display: none;
-    }
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
     #section .story .milk_show{
         margin: 0 auto;
     }
@@ -1358,7 +1220,6 @@ body{
         margin-left: 0;
     }
     #section .story .story-1>h2{
-<<<<<<< HEAD
         width: 60%;
         text-align: center;
         font-size: 5vw;
@@ -1366,14 +1227,6 @@ body{
     }
     #section .story .story-1>p{
         display: none;
-=======
-        margin: 0 auto;
-        margin-left: 70px;
-    }
-    #section .story .story-1>p{
-/*         padding-left: 10%; */
-        margin: 0 auto;
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
     }
     #section .story .milk_gp h4{
         font-size: 3.5vw;
@@ -1410,13 +1263,7 @@ body{
         height:45vw;
     }
     #section .love>h2{
-<<<<<<< HEAD
         font-size: 5vw;
-=======
-        font-size: 20pt;
-        padding-top: 20px;
-        padding-left: 10px;
->>>>>>> 1229aa0a6d5ff90e124073b1beefcd58b61a1413
     }
     #section .love>p{
         font-size: 3vw;
